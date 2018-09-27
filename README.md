@@ -14,11 +14,11 @@ Assignment Task 1.1.PNG	file contains screen shot of Task 1.1.
 
 Assignment Task 1.2.PNG	file contains screen shot of Task 1.2.
 
-Assignment Task 1.3.PNG	file contains screen shot of Task 1.3.
+Assignment Task 1.3.1.PNG to 1.3.3 file contains screen shot of Task 1.3.
 
 Assignment Task 1.4.PNG	file contains screen shot of Task 1.4.
 
-Assignment Task 1.5.PNG	file contains screen shot of Task 1.5.
+Assignment Task 1.5.1.PNG to 1.5.2	file contains screen shot of Task 1.5.
 
 Assignment Task 1.6.PNG	file contains screen shot of Task 1.6.
 
@@ -30,9 +30,9 @@ Assignment Task 2.2.PNG	file contains screen shot of Task 2.2.
 
 Assignment Task 2.3.PNG	file contains screen shot of Task 2.3.
 
-Assignment Task 2.4.PNG	file contains screen shot of Task 2.4.
+Assignment Task 2.4.1.PNG to 2.4.2	file contains screen shot of Task 2.4.
 
-Assignment Task 2.5.PNG	file contains screen shot of Task 2.5.
+Assignment Task 2.5.1.PNG to 2.5.2	file contains screen shot of Task 2.5.
 
 Jupyter Notebook
 
